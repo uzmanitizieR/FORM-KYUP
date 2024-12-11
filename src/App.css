@@ -1,0 +1,23 @@
+body {
+  background-color: #f8f9fa;
+}
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.card-header {
+  font-size: 1.5rem;
+}
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #e9ecef;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+div {
+  width: 100%;
+  max-width: 500px;
+}
